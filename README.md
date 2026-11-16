@@ -16,7 +16,7 @@ Speed = `capture interval × playback FPS`. At 30 FPS: `0.1 s → 3×`, `0.2 s �
 ## Install (macOS)
 
 1. Close OBS.
-2. Download `obs-timelapse.zip` from [Releases](../../releases) and unzip it.
+2. Download and unzip [`obs-timelapse.zip`](https://github.com/leelachebiyyam/obs-timelapse-audio/releases/latest/download/obs-timelapse.zip).
 3. Copy `obs-timelapse.plugin` into:
 
 ```text
